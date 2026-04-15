@@ -39,3 +39,9 @@ Objectives
 
 Acknowledgement
 This project was developed as part of an assignment provided by LeadMint Technologies to evaluate frontend development and UI design skills.
+
+Screenshots
+Dashboard
+<p align="center">
+  <img src="Case Study Dashboard.png" width="80%" />
+</p>
