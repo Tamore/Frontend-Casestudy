@@ -1,12 +1,15 @@
-Frontend Case Study – Analytics Dashboard
+# Frontend Case Study – Analytics Dashboard
 
-Overview
+## Overview
 This project is a frontend case study developed as part of an assignment for LeadMint Technologies. The objective was to design and implement a responsive and user-friendly web interface using modern UI components and frontend practices.
 
 The application includes authentication pages and a dashboard that visualizes user analytics through cards and graphical elements.
 
-Features
-Authentication
+---
+
+## Features
+
+### Authentication
 - Login page with email and password fields
 - Client-side validation for email format and required fields
 
@@ -14,7 +17,7 @@ Authentication
   - Email, password, and confirm password fields
   - Password match validation
 
- Dashboard (Home Page)
+### Dashboard (Home Page)
 - Sidebar navigation for different sections
 - Analytics cards displaying:
   - Total Users
@@ -24,24 +27,33 @@ Authentication
 - Data visualization for recent activity (last 7 days)
 - Clean and responsive UI design
 
-Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+---
+
+## Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
 - Ripple UI (component-based styling)
 
-Objectives
-- Build a responsive and visually consistent UI
-- Implement client-side form validation
-- Design reusable UI components
-- Display data using cards and charts
-- Ensure a smooth user experience
+---
 
-Acknowledgement
-This project was developed as part of an assignment provided by LeadMint Technologies to evaluate frontend development and UI design skills.
+## Objectives
+- Build a responsive and visually consistent UI  
+- Implement client-side form validation  
+- Design reusable UI components  
+- Display data using cards and charts  
+- Ensure a smooth user experience  
 
-Screenshots
-Dashboard
+---
+
+## Screenshots
+
+### Dashboard
 <p align="center">
-  <img src="Case Study Dashboard.png" width="80%" />
+  <img src="Case%20Study%20Dashboard.png" width="80%" />
 </p>
+
+---
+
+## Acknowledgement
+This project was developed as part of an assignment provided by LeadMint Technologies to evaluate frontend development and UI design skills.
